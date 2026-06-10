@@ -712,6 +712,11 @@ color: var(--muted);
 
         flex-direction: column;
     }
+
+   .footer-form {
+    width: 100%;
+    max-width: none;
+}
 }
 
 @media (max-width: 768px) {
