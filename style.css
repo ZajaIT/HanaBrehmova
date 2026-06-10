@@ -185,6 +185,35 @@ nav a:hover {
     opacity: .6;
 }
 
+.mobile-menu-trigger {
+    display: none;
+}
+
+.mobile-menu-text {
+
+    font-size: .85rem;
+    text-transform: uppercase;
+    letter-spacing: .25em;
+    color: var(--muted);
+
+    font-family: "Inter", sans-serif;
+}
+
+.hamburger {
+
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.hamburger span {
+
+    width: 24px;
+    height: 1px;
+
+    background: #181818;
+}
+
 /* =========================
    DROPDOWN
 ========================= */
@@ -617,6 +646,15 @@ color: var(--muted);
     .btn-header {
         display: none;
     }
+
+   .mobile-menu-trigger {
+
+    display: flex;
+    align-items: center;
+    gap: 14px;
+
+    cursor: pointer;
+}
 
     .hero-grid {
 
