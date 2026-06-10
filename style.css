@@ -669,6 +669,7 @@ color: var(--muted);
 }
    .signature img {
     margin: 0 auto;
+    transform: translateX(8px);
 }
 
     .navbar nav,
