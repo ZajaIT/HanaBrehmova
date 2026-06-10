@@ -650,6 +650,14 @@ color: var(--muted);
     justify-content: center;
 }
 
+   .footer-content {
+    align-items: center;
+}
+
+   .social-icons {
+    justify-content: center;
+}
+
     .navbar nav,
     .btn-header {
         display: none;
