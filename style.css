@@ -539,6 +539,10 @@ footer {
     margin-bottom: 1rem;
 }
 
+.footer-form h4 {
+    margin-bottom: 2rem;
+}
+
 .footer-content p {
     margin-bottom: .5rem;
 }
