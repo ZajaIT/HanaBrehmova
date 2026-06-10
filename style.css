@@ -656,10 +656,14 @@ color: var(--muted);
 
    .footer-content {
     align-items: center;
+    text-align: center;
 }
 
    .social-icons {
     justify-content: center;
+}
+   .signature img {
+    margin: 0 auto;
 }
 
     .navbar nav,
