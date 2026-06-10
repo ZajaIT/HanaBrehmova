@@ -201,12 +201,12 @@ nav a:hover {
 
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 8px;
 }
 
 .hamburger span {
 
-    width: 26px;
+    width: 28px;
     height: 1px;
 
     background: #181818;
