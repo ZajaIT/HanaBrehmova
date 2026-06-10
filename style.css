@@ -640,6 +640,14 @@ color: var(--muted);
         padding: 5rem 0;
     }
 
+   .container {
+        text-align: center;
+    }
+
+    .hero-buttons {
+        justify-content: center;
+    }
+
     .navbar nav,
     .btn-header {
         display: none;
