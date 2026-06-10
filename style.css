@@ -659,6 +659,11 @@ color: var(--muted);
     text-align: center;
 }
 
+   .footer-content > div:first-child {
+    width: 100%;
+    text-align: center;
+}
+
    .social-icons {
     justify-content: center;
 }
