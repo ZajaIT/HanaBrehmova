@@ -195,8 +195,6 @@ nav a:hover {
     text-transform: uppercase;
     letter-spacing: .25em;
     color: var(--muted);
-
-    font-family: "Inter", sans-serif;
 }
 
 .hamburger {
