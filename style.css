@@ -721,8 +721,9 @@ color: var(--muted);
 
     .footer-content {
 
-        flex-direction: column;
-    }
+    flex-direction: column;
+    gap: 3.5rem;
+}
 
    .footer-form {
     width: 100%;
